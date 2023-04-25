@@ -1,0 +1,6 @@
+*Primeiro passo: Escolha o local da pasta e crie-a (lembrando que não pode ser a pasta raiz / nem a ~ 
+
+*Segundo passo: execute o git init quando estiver dentro da pasta escolhida para criar o diretorio do git
+
+*Terceiro passo: crie a branch  usando o comando git branch nome-da-branch ou o git checkout -b nome-da-branch 
+que ja cria e entra dentro da branch, a branch tipo seu rascunho para não usar o projeto raiz correr risco de perde-lo.
