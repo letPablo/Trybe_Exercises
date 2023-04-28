@@ -1,24 +1,24 @@
-# Trybe
+# TryBe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Pablo Andrade Tunes](https://www.linkedin.com/in/pabloandradebh/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) 🚀
+This repository contains all the learning activities developed by _[Pablo Andrade Tunes](https://www.linkedin.com/in/pabloandradebh/)_ while studying at [Trybe](https://www.betrybe.com/ ) 🚀
 
-> "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
+> "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where the person only pays when they get a good job."
 
-> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+> The program has more than 1,500 hours of classroom and online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
-## Fundamentos do Desenvolvimento Web ✅
+## Fundamentals of Web Development ✅
 
-##### Seção 1: [Unix, Shell & Git](https://github.com/letPablo/Trybe_Exercises/tree/main/1-M%C3%B3dulo_Fundamentos/Se%C3%A7%C3%A3o_1)
+##### Section 1: [Unix, Shell & Git](https://github.com/letPablo/Trybe_Exercises/tree/main/1-M%C3%B3dulo_Fundamentos/Se%C3%A7%C3%A3o_1)
 
-- [x] Dia 1 - Unix & Shell
-- [x] Dia 2 - Git, o que é e para que server?
-- [x] Dia 3 - Git e Github, entendendo os comandos.
+- [x] Day 1 - Unix & Shell
+- [x] Day 2 - Git, what is it and for what server?
+- [x] Day 3 - Git and Github, understanding the commands.
 
 
-##### Seção 2: [Introdução à HTML & CSS](https://github.com/letPablo/Trybe_Exercises/tree/main/1-M%C3%B3dulo_Fundamentos/Se%C3%A7%C3%A3o_2)
+##### Section 2: [Introduction to HTML & CSS](https://github.com/letPablo/Trybe_Exercises/tree/main/1-M%C3%B3dulo_Fundamentos/Se%C3%A7%C3%A3o_2)
 
-- [x] Dia 1 - HTML & CSS - Estruturas de página
-- [x] Dia 2 - HTML & CSS - Primeiros passos em CSS
-- [x] Dia 3 - HTML & CSS - Seletores e posicionamento
-- [x] Dia 4 - HTML Semântico
-- [ ] Dia 5 - Projeto - Lessons Learned
+- [x] Day 1 - HTML & CSS - Page Structures
+- [x] Day 2 - HTML & CSS - Getting started with CSS
+- [x] Day 3 - HTML & CSS - Selectors and positioning
+- [x] Day 4 - Semantic HTML
+- [ ] Day 5 - Project - Lessons Learned
